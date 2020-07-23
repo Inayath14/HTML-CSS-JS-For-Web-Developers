@@ -6,3 +6,4 @@ This Repository Contains Assignments Of HTML-CSS-JavaScript-For-Web-Developers C
 * Module-2 - Our Menu
 * Module-3 - Food,LLC
 * Module-4 - JavaScript Coding
+* Module-5 - Restaurant Site 
